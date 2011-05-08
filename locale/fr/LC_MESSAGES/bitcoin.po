@@ -322,7 +322,7 @@ msgstr "<b>Débit:</b> "
 
 #: ../../../ui.cpp:1349
 msgid "<b>Transaction fee:</b> "
-msgstr "<b>Redevance de transaction :</b> "
+msgstr "<b>Frais de transaction :</b> "
 
 #: ../../../ui.cpp:1365
 msgid "<b>Net amount:</b> "
@@ -442,7 +442,7 @@ msgstr "Clef publique reçue..."
 
 #: ../../../ui.cpp:2025
 msgid "Transfer was not accepted"
-msgstr "Le transfer n'a pas été accepté"
+msgstr "Le transfert n'a pas été accepté"
 
 #: ../../../ui.cpp:2034
 msgid "Invalid response received"
@@ -459,11 +459,11 @@ msgstr "Ceci est une transaction de taille excessive qui nécessite des frais de
 
 #: ../../../ui.cpp:2063
 msgid "Transaction creation failed"
-msgstr "La création de la transaction a échouée"
+msgstr "La création de la transaction a échoué"
 
 #: ../../../ui.cpp:2070
 msgid "Transaction aborted"
-msgstr "Transaction interrompue"
+msgstr "Transaction abandonnée"
 
 #: ../../../ui.cpp:2078
 msgid "Lost connection, transaction cancelled"
@@ -523,7 +523,7 @@ msgstr "Adresse Bitcoin"
 
 #: ../../../ui.cpp:2301
 msgid "This is one of your own addresses for receiving payments and cannot be entered in the address book.  "
-msgstr "Ceci est une de vos adresses de reception de paiement, et ne peut être ajoutée au carnet d'adresse.  "
+msgstr "Ceci est une de vos adresses de reception de paiement; elle ne peut être ajoutée au carnet d'adresse.  "
 
 #: ../../../ui.cpp:2319
 #: ../../../ui.cpp:2325
@@ -654,7 +654,7 @@ msgstr "OK"
 
 #: ../../../uibase.cpp:355
 msgid "Optional transaction fee you give to the nodes that process your transactions."
-msgstr "Frais de transaction optionel que vous donnez au nœud qui traite vos transactions."
+msgstr "Frais de transaction optionnels que vous donnez au nœud qui traite vos transactions."
 
 #: ../../../uibase.cpp:364
 msgid "Transaction fee:"
@@ -755,7 +755,7 @@ msgstr ""
 
 #: ../../../uibase.cpp:627
 msgid "Pay &To:"
-msgstr "&Payable à:"
+msgstr "&Payer à:"
 
 #: ../../../uibase.cpp:642
 msgid "&Paste"
